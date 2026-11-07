@@ -1,7 +1,7 @@
 
 import './App.css'
-import SearchBar from './SearchBar'
-import Map from './Map.tsx'
+import SearchBar from './components/SearchBar.tsx'
+import Map from './components/Map.tsx'
 
 export default function App() {
   
